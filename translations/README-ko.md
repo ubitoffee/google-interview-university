@@ -1493,15 +1493,15 @@ Maybe:
 - What do you like about it?
 - What is the work life like?
 
-## Once You've Got The Job
+## 당신이 구글에 취직했을때
 
-Congratulations!
+축하합니다!
 
-- [10 things I wish I knew on my first day at Google](https://medium.com/@moonstorming/10-things-i-wish-i-knew-on-my-first-day-at-google-107581d87286#.livxn7clw)
+- [구글에 첫 출근했을 때 알았으면 좋았을 10가지](https://medium.com/@moonstorming/10-things-i-wish-i-knew-on-my-first-day-at-google-107581d87286#.livxn7clw)
 
-Keep learning.
+공부를 놓지마세요.
 
-You're never really done.
+아직 끝난게 아닙니다.
 
 ---
 
